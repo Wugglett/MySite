@@ -149,4 +149,8 @@ hr {
     margin-top: 30px;
 }
 
+.me {
+    border-radius: 100%;
+}
+
 /*ID Selectors*/
